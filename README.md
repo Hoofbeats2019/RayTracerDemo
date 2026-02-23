@@ -2,7 +2,7 @@
 
 **Program Description**
 
-This is a physically-based ray tracer implementing advanced rendering techniques for COSC 363 Computer Graphics. The program traces rays through a 3D scene to compute photorealistic images by simulating light behavior in the environment.
+This is a physically-based ray tracer implementing advanced rendering techniques for Computer Graphics. The program traces rays through a 3D scene to compute photorealistic images by simulating light behavior in the environment.
 
 **Core Features:**
 - **Lighting & Shading**: Dual point light sources with Phong illumination model, computing diffuse and specular reflections for realistic material appearance.
@@ -65,7 +65,7 @@ sudo apt install build-essential cmake libglm-dev freeglut3-dev libglu1-mesa-dev
 
 ```powershell
 # from project root
-git clone https://github.com/microsoft/vcpkg.git
+git clone https://github.com/Hoofbeats2019/RayTracerDemo.git
 cd vcpkg
 ./bootstrap-vcpkg.sh  # or .\bootstrap-vcpkg.bat on Windows
 ./vcpkg install glm freeglut

@@ -1,0 +1,3 @@
+/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/build/CMakeFiles/RayTracer.out.dir
+/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/build/CMakeFiles/edit_cache.dir
+/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/build/CMakeFiles/rebuild_cache.dir

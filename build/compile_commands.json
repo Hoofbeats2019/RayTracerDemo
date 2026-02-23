@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14  -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/GLUT.framework/Headers -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/RayTracer.out.dir/RayTracer.cpp.o -c \"/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/RayTracer.cpp\"",
+  "file": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/RayTracer.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/RayTracer.cpp.o"
+},
+{
+  "directory": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14  -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/GLUT.framework/Headers -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/RayTracer.out.dir/Ray.cpp.o -c \"/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/Ray.cpp\"",
+  "file": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/Ray.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/Ray.cpp.o"
+},
+{
+  "directory": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14  -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/GLUT.framework/Headers -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/RayTracer.out.dir/SceneObject.cpp.o -c \"/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/SceneObject.cpp\"",
+  "file": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/SceneObject.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/SceneObject.cpp.o"
+},
+{
+  "directory": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14  -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/GLUT.framework/Headers -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/RayTracer.out.dir/Sphere.cpp.o -c \"/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/Sphere.cpp\"",
+  "file": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/Sphere.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/Sphere.cpp.o"
+},
+{
+  "directory": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14  -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/GLUT.framework/Headers -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/RayTracer.out.dir/Plane.cpp.o -c \"/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/Plane.cpp\"",
+  "file": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/Plane.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/Plane.cpp.o"
+},
+{
+  "directory": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14  -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/GLUT.framework/Headers -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/RayTracer.out.dir/Cylinder.cpp.o -c \"/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/Cylinder.cpp\"",
+  "file": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/Cylinder.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/Cylinder.cpp.o"
+},
+{
+  "directory": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14  -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/GLUT.framework/Headers -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/RayTracer.out.dir/Cone.cpp.o -c \"/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/Cone.cpp\"",
+  "file": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/Cone.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/Cone.cpp.o"
+},
+{
+  "directory": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14  -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/GLUT.framework/Headers -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/RayTracer.out.dir/Circle.cpp.o -c \"/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/Circle.cpp\"",
+  "file": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/Circle.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/Circle.cpp.o"
+},
+{
+  "directory": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14  -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/GLUT.framework/Headers -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/RayTracer.out.dir/TextureBMP.cpp.o -c \"/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/TextureBMP.cpp\"",
+  "file": "/Users/yanlongsu/Library/CloudStorage/OneDrive-Personal/Univerisity of Canterbury (UC)/COSC 363 Computer Graphics/uc-cosc363-assignment2-raytracer-main/TextureBMP.cpp",
+  "output": "CMakeFiles/RayTracer.out.dir/TextureBMP.cpp.o"
+}
+]

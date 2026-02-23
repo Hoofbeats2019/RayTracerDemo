@@ -1,4 +1,4 @@
-**Ray Tracer (COSC 363) — README**
+**RayTracyDemo — README**
 
 **Program Description**
 
